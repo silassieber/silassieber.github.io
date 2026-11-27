@@ -11,31 +11,31 @@ Be honest and specific.
 
 ### Which tools did you use?
 
-<!-- e.g. ChatGPT, Claude, GitHub Copilot, Midjourney, an image/sound generator, … -->
+<!-- I used ChatGpt to create, change or make the code better -->
 
 -
 
 ### What did you use them for?
 
-<!-- Where did AI help? Ideas, writing/debugging code, creating visual or audio assets, explaining a concept, refactoring, … -->
+<!-- I used them to either generate code or clean up code i made myself. I didn't use any AI to generate Ideas. For most of the Projects i started writing the code myself and as soon as i wasnt able to continue i used AI for help -->
 
 -
 
 ### How did you use them?
 
-<!-- Include the key prompts you used, or a short summary of the back-and-forth. Be specific enough that someone could follow your process. -->
+<!-- I used them to for instance generate an Idea i had in my mind: For Example i started writing the code myself and suddenly it wouldn't work anymore and then i would ask ChatGpt something like: what did i do wrong here? Can you clean up this code and make it work better? I have this idea about (...) how would you have to do this? And please always explain what you're doing.  -->
 
 -
 
 ### What was your own contribution?
 
-<!-- What did YOU decide, change, reject, or build on top of the AI's output? Which creative and technical choices were yours? -->
+<!-- I decided everything. I mean all the creative choices were mine. Whenever Ai would give me code i would try it and then decide what i like about it and what not. I would then tweak around the code util my liking. So whatever i generated with AI was never really random, i always promted something or told Ai what exactly to do. So the Ideas are really mine. -->
 
 -
 
 ### Reflection
 
-<!-- One or two sentences: what worked well, what didn't, and what you learned about using AI as a creative tool. -->
+<!-- I think my Workflow was a lot of fun, i created a lot of sketches and didn't spend a lot of time thinking about what i wanted to do, i just did it. I men it would have been nice if i would have coded more myself. But in order to reach my creative goals i was sort of forced to use Ai;) -->
 
 -
 
